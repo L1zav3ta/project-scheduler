@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Планировщик проектов</string>
+    <string name="add_new_project_title">Введите название нового проекта</string>
+    <string name="cancel">Отмена</string>
+</resources>
